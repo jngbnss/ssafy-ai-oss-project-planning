@@ -6,6 +6,8 @@ SSAFY 3차 프로젝트의 주제를 선정하기 위해 AI 역량, 오픈소스
 
 ## 발표 장표 실행
 
+웹에서 바로 보기: **[3차 프로젝트 설계 도메인 보고서](https://jngbnss.github.io/ssafy-ai-oss-project-planning/)**
+
 저장소를 클론한 뒤 루트의 [`index.html`](./index.html)을 Chrome 또는 Edge로 열면 됩니다. 별도 설치나 빌드 과정은 없습니다.
 
 ```bash
