@@ -20,20 +20,20 @@ cd ssafy-ai-oss-project-planning
 - 방향키, `Page Up`, `Page Down`, `Space`: 장표 이동
 - `F`: 전체 화면
 - 4번 장표의 프로젝트 카드: 마우스를 올리면 SWOT 표시
-- 프로젝트별 `데모 실행`: P1~P7은 내장된 프론트엔드 데모, P8은 배포된 레이싱 게임 실행
+- 프로젝트별 `데모 확인하기`: 각 프로젝트의 공개 GitHub Pages 주소 열기
 - 마지막 장표: 팀 회의 안건 확인
 
 ## 현재 프로젝트 후보
 
 | ID | 프로젝트 | 저장소 | 가중 총점 |
 |---|---|---|---:|
-| P1 | 세계여행 영어회화 + AI 동반자 | [scene-speak-ai](https://github.com/jngbnss/scene-speak-ai) | 477 |
-| P2 | AI 추리 수사 + 방탈출 | [caseforge-ai](https://github.com/jngbnss/caseforge-ai) | 502 |
-| P3 | AI 문학 세계 탐험 | [litverse-ai](https://github.com/jngbnss/litverse-ai) | 421 |
-| P4 | 제스처 홀로그램 + AI 공학 연구실 | [holoforge-ai-lab](https://github.com/jngbnss/holoforge-ai-lab) | 473 |
-| P5 | AI 2D→3D 인터랙티브 월드 | [draw2world-ai](https://github.com/jngbnss/draw2world-ai) | 448 |
-| P6 | AI 쥬라기 생태계 | [paleosphere-ai](https://github.com/jngbnss/paleosphere-ai) | 460 |
-| P7 | AI 디지털 트윈 + 조종 시뮬레이터 | [twinpilot-ai](https://github.com/jngbnss/twinpilot-ai) | 472 |
+| P1 | 세계여행 영어회화 + AI 동반자 | [scene-speak-ai](https://github.com/jngbnss/scene-speak-ai) · [데모](https://jngbnss.github.io/scene-speak-ai/) | 477 |
+| P2 | AI 추리 수사 + 방탈출 | [caseforge-ai](https://github.com/jngbnss/caseforge-ai) · [데모](https://jngbnss.github.io/caseforge-ai/) | 502 |
+| P3 | AI 문학 세계 탐험 | [litverse-ai](https://github.com/jngbnss/litverse-ai) · [데모](https://jngbnss.github.io/litverse-ai/) | 421 |
+| P4 | 제스처 홀로그램 + AI 공학 연구실 | [holoforge-ai-lab](https://github.com/jngbnss/holoforge-ai-lab) · [데모](https://jngbnss.github.io/holoforge-ai-lab/) | 473 |
+| P5 | AI 2D→3D 인터랙티브 월드 | [draw2world-ai](https://github.com/jngbnss/draw2world-ai) · [데모](https://jngbnss.github.io/draw2world-ai/) | 448 |
+| P6 | AI 쥬라기 생태계 | [paleosphere-ai](https://github.com/jngbnss/paleosphere-ai) · [데모](https://jngbnss.github.io/paleosphere-ai/) | 460 |
+| P7 | AI 디지털 트윈 + 조종 시뮬레이터 | [twinpilot-ai](https://github.com/jngbnss/twinpilot-ai) · [데모](https://jngbnss.github.io/twinpilot-ai/) | 472 |
 | P8 | AI 레이싱 게임 + 주행 에이전트 | [f1](https://github.com/jngbnss/f1) · [실행](https://jngbnss.github.io/f1/) | 408 |
 
 ## 문서
